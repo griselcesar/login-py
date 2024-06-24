@@ -1,0 +1,2 @@
+# Ventana de Login con Tkinter y Python 3
+En este proyecto diseñamos y creamos una ventana simple de Login en Python3 haciendo uso de la biblioteca de GUI Tkinter, la cual usaremos para representar una pantalla de inicio de sesión.
